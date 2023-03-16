@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Gabriel Galeski</h1>
-<h3 align="center">Estudante de desenvolvimento de software na Trybe</h3>
+<h1 align="left">Olá, eu sou o Gabriel Galeski</h1>
+<h3 align="left">Estudante de desenvolvimento de software na Trybe</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabgaleski&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
