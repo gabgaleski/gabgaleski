@@ -8,6 +8,7 @@
 </h1>
 </div>
 
+<h4>About me:</h4>
 
 - 🔥 Junior Web Developer, Front-End
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Node.JS**
