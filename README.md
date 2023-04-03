@@ -1,5 +1,7 @@
 <h1 align="left">Olá, eu sou o Gabriel Galeski</h1>
-<h3 align="left">Estudante de desenvolvimento de software na Trybe</h3>
+
+- 🔥 Junior Web Developer, Front-End
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Node.JS**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabgaleski&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
