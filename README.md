@@ -10,7 +10,7 @@
 
 <h4>About me:</h4>
 
-- 🔥 Junior Web Developer, Front-End
+- 🔥 Web Developer, Front-End
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Node.JS**
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabgaleski&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
