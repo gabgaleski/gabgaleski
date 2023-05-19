@@ -8,7 +8,13 @@
 </h1>
 </div>
 
-<h4>About me:</h4>
+## :technologist: About me:
+
+<p>Olá, Eu sou o Gabriel e sou desenvolvedor Front-end, etudando Back-End no momento para me tornar Full-Stack. <br>
+Sou apaixonado por tecnologia e pela programaçao, amo criar, mudar e buscar soluções para impactar na vida das pessoas. Estou sempre buscando aprender e melhorar, desenvolvendo 
+nao so as Hard Skills, como as Softs Skills.</p>
+
+<br>
 
 - 🔥 Web Developer, Front-End
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Node.JS**
