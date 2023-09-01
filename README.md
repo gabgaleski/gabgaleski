@@ -10,14 +10,14 @@
 
 ## :technologist: About me:
 
-<p>Olá, Eu sou o Gabriel e sou desenvolvedor Front-end, etudando Back-End no momento para me tornar Full-Stack. <br>
+<p>Olá, Eu sou o Gabriel e sou desenvolvedor Fullstack, etudando Flutter no momento. <br>
 Sou apaixonado por tecnologia e pela programaçao, amo criar, mudar e buscar soluções para impactar no dia-a-dia das pessoas. Estou sempre buscando aprender e melhorar, desenvolvendo 
 nao so as Hard Skills, como as Softs Skills.</p>
 
 <br>
 
-- 🔥 Web Developer, Front-End
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Node.JS**
+- 🔥 Web Developer, Fullstack
+- 💬 Ask me about **Typescript, Express, CSS, React, Node.JS**
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabgaleski&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabgaleski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,12 +33,16 @@ nao so as Hard Skills, como as Softs Skills.</p>
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
