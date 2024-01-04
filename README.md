@@ -15,7 +15,7 @@
 
 ## :technologist: About me:
 
-<p>Olá, Eu sou o Gabriel e sou desenvolvedor web Fullstack, estudando Flutter no momento. <br>
+<p>Olá, Eu sou o Gabriel e sou desenvolvedor web Fullstack, cursando Analise e Desenvolvimento de Sistemas. <br>
 Sou apaixonado por tecnologia e pela programaçao, amo criar, mudar e buscar soluções para impactar no dia-a-dia das pessoas. Estou sempre buscando aprender e melhorar, desenvolvendo 
 nao so as Hard Skills, como as Softs Skills.</p>
 
